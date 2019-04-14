@@ -253,16 +253,15 @@
       <workItem from="1554963080206" duration="214000" />
       <workItem from="1555125651715" duration="2983000" />
       <workItem from="1555207465969" duration="1631000" />
-      <workItem from="1555235801880" duration="1287000" />
+      <workItem from="1555235801880" duration="1570000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="250000" />
+    <option name="totallyTimeSpent" value="533000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="362" y="0" width="828" height="696" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="7" weight="0.4159292" />
@@ -275,10 +274,10 @@
       <window_info anchor="bottom" id="Tapestry" />
       <window_info anchor="bottom" id="Version Control" order="11" sideWeight="0.57575756" weight="0.32920793" />
       <window_info anchor="bottom" id="Run" order="3" weight="0.32229966" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4974026" visible="true" weight="0.32389382" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.4974026" visible="true" weight="0.32389382" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" x="479" y="73" width="320" height="527" id="Project" order="0" sideWeight="0.49570817" visible="true" weight="0.22857143" />
+      <window_info content_ui="combo" x="479" y="73" width="320" height="527" id="Project" order="0" sideWeight="0.49570817" visible="true" weight="0.22857143" />
       <window_info anchor="right" id="Database" order="6" weight="0.32821342" />
       <window_info id="Structure" order="1" sideWeight="0.50429183" side_tool="true" weight="0.5155844" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24861266" />
